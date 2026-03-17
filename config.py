@@ -1,0 +1,15 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+
+ADMIN_ID = 962169744
+
+CARD_NUMBER = "4149 4991 2222 3333"
+TON_WALLET = "UQAJx14Xo2L7drY-6STUugBsVdi3i_2VrTB7NxbgrxYgslu9"
+
+STAR_PRICE_UAH = 1.048   # приклад: 50 stars = 52.40 грн
+TON_RATE_UAH = 210.0     # курс TON в грн
+
+MIN_STARS_AMOUNT = 50
+MIN_TOPUP_UAH = 50
+MIN_TOPUP_TON = 1
